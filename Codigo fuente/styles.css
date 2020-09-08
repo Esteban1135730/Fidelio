@@ -1,0 +1,51 @@
+.post-container {
+    border-left: 1px solid gray;
+    padding: 1em;
+    width: 75%;
+    margin-left: 3em;
+}
+
+.container {
+    border-left: 1px solid gray;
+    border-radius: 1%;
+    padding: 1em;
+    width: 95%;
+    margin-bottom: 0.3em;
+}
+
+* {
+    font-family: sans-serif;
+}
+
+button.default-btn {
+    border: none;
+    width: 8em;
+    height: 3em;
+    border-radius: 9%;
+    background-color: #54c154;
+    color: white;
+    margin-left: 38%;
+    margin-bottom: 2em;
+    font-size: 0.8em;
+    padding: 1em;
+}
+
+.title b {
+    color: green;
+    font-size: 0.8em;
+}
+
+.title span {
+    color: gray;
+    font-size: 0.9em;
+}
+
+p.comment {
+    font-size: 0.9em;
+}
+
+img.arrows {
+    position: relative;
+    width: 1.5em;
+    right: 1.7em;
+}
